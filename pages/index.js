@@ -1,4 +1,3 @@
-import React from 'react';
 import PackageCalculator from '../components/PackageCalculator';
 
 export default function Home() {
